@@ -1,0 +1,231 @@
+# depslib dependency file v1.0
+1503350952 source:c:\users\eng - mohamed bakr\documents\embedded diploma\submission_3\project_01_v4.0 - copy\input.c
+	"input.h"
+	<stdio.h>
+
+1503253512 c:\users\eng - mohamed bakr\documents\embedded diploma\submission_3\project_01_v4.0 - copy\input.h
+
+1503680516 source:c:\users\eng - mohamed bakr\documents\embedded diploma\submission_3\project_01_v4.0 - copy\linkedlist.c
+	"linkedlist.h"
+	"student.h"
+	<stdio.h>
+	<windows.h>
+
+1503684438 c:\users\eng - mohamed bakr\documents\embedded diploma\submission_3\project_01_v4.0 - copy\linkedlist.h
+	"student.h"
+	<stdio.h>
+	<windows.h>
+
+1503679398 c:\users\eng - mohamed bakr\documents\embedded diploma\submission_3\project_01_v4.0 - copy\student.h
+	<stdio.h>
+
+1503679335 source:c:\users\eng - mohamed bakr\documents\embedded diploma\submission_3\project_01_v4.0 - copy\student.c
+	"student.h"
+	"input.h"
+	<stdio.h>
+	<string.h>
+
+1503678929 source:c:\users\eng - mohamed bakr\documents\embedded diploma\submission_3\project_01_v4.0 - copy\main.c
+	<stdio.h>
+	<conio.h>
+	"mainFunctions.h"
+	"student.h"
+	"input.h"
+	"linkedlist.h"
+
+1503679083 c:\users\eng - mohamed bakr\documents\embedded diploma\submission_3\project_01_v4.0 - copy\mainfunctions.h
+	"student.h"
+	"linkedlist.h"
+	"input.h"
+
+1503737870 source:c:\users\eng - mohamed bakr\documents\embedded diploma\submission_3\project_01_v4.0 - copy\mainfunctions.c
+	<conio.h>
+	"mainFunctions.h"
+	"student.h"
+	"linkedlist.h"
+	"input.h"
+
+1503350952 source:d:\mywork\embedded diploma\submission_3\project_01_v4.0 - copy\input.c
+	"input.h"
+	<stdio.h>
+
+1503253512 d:\mywork\embedded diploma\submission_3\project_01_v4.0 - copy\input.h
+
+1503680516 source:d:\mywork\embedded diploma\submission_3\project_01_v4.0 - copy\linkedlist.c
+	"linkedlist.h"
+	"student.h"
+	<stdio.h>
+	<windows.h>
+
+1503684438 d:\mywork\embedded diploma\submission_3\project_01_v4.0 - copy\linkedlist.h
+	"student.h"
+	<stdio.h>
+	<windows.h>
+
+1503679398 d:\mywork\embedded diploma\submission_3\project_01_v4.0 - copy\student.h
+	<stdio.h>
+
+1503678929 source:d:\mywork\embedded diploma\submission_3\project_01_v4.0 - copy\main.c
+	<stdio.h>
+	<conio.h>
+	"mainFunctions.h"
+	"student.h"
+	"input.h"
+	"linkedlist.h"
+
+1503679083 d:\mywork\embedded diploma\submission_3\project_01_v4.0 - copy\mainfunctions.h
+	"student.h"
+	"linkedlist.h"
+	"input.h"
+
+1503737870 source:d:\mywork\embedded diploma\submission_3\project_01_v4.0 - copy\mainfunctions.c
+	<conio.h>
+	"mainFunctions.h"
+	"student.h"
+	"linkedlist.h"
+	"input.h"
+
+1503679335 source:d:\mywork\embedded diploma\submission_3\project_01_v4.0 - copy\student.c
+	"student.h"
+	"input.h"
+	<stdio.h>
+	<string.h>
+
+1503350952 source:d:\my work\embedded diploma\submission_3\project_01_v4.0 - copy\input.c
+	"input.h"
+	<stdio.h>
+
+1503253512 d:\my work\embedded diploma\submission_3\project_01_v4.0 - copy\input.h
+
+1503680516 source:d:\my work\embedded diploma\submission_3\project_01_v4.0 - copy\linkedlist.c
+	"linkedlist.h"
+	"student.h"
+	<stdio.h>
+	<windows.h>
+
+1503684438 d:\my work\embedded diploma\submission_3\project_01_v4.0 - copy\linkedlist.h
+	"student.h"
+	<stdio.h>
+	<windows.h>
+
+1503679398 d:\my work\embedded diploma\submission_3\project_01_v4.0 - copy\student.h
+	<stdio.h>
+
+1503678929 source:d:\my work\embedded diploma\submission_3\project_01_v4.0 - copy\main.c
+	<stdio.h>
+	<conio.h>
+	"mainFunctions.h"
+	"student.h"
+	"input.h"
+	"linkedlist.h"
+
+1503679083 d:\my work\embedded diploma\submission_3\project_01_v4.0 - copy\mainfunctions.h
+	"student.h"
+	"linkedlist.h"
+	"input.h"
+
+1503737870 source:d:\my work\embedded diploma\submission_3\project_01_v4.0 - copy\mainfunctions.c
+	<conio.h>
+	"mainFunctions.h"
+	"student.h"
+	"linkedlist.h"
+	"input.h"
+
+1503679335 source:d:\my work\embedded diploma\submission_3\project_01_v4.0 - copy\student.c
+	"student.h"
+	"input.h"
+	<stdio.h>
+	<string.h>
+
+1503350952 source:d:\mywork\c projects\student records\input.c
+	"input.h"
+	<stdio.h>
+
+1503253512 d:\mywork\c projects\student records\input.h
+
+1525193878 source:d:\mywork\c projects\student records\linkedlist.c
+	"linkedlist.h"
+	"student.h"
+	<stdio.h>
+	<windows.h>
+
+1503684438 d:\mywork\c projects\student records\linkedlist.h
+	"student.h"
+	<stdio.h>
+	<windows.h>
+
+1503679398 d:\mywork\c projects\student records\student.h
+	<stdio.h>
+
+1503678929 source:d:\mywork\c projects\student records\main.c
+	<stdio.h>
+	<conio.h>
+	"mainFunctions.h"
+	"student.h"
+	"input.h"
+	"linkedlist.h"
+
+1503679083 d:\mywork\c projects\student records\mainfunctions.h
+	"student.h"
+	"linkedlist.h"
+	"input.h"
+
+1525193878 source:d:\mywork\c projects\student records\mainfunctions.c
+	<conio.h>
+	"mainFunctions.h"
+	"student.h"
+	"linkedlist.h"
+	"input.h"
+
+1525193878 source:d:\mywork\c projects\student records\student.c
+	"student.h"
+	"input.h"
+	<stdio.h>
+	<string.h>
+
+1503350952 source:d:\software & hardware\my code\part ii\c projects\student records\input.c
+	"input.h"
+	<stdio.h>
+
+1503253512 d:\software & hardware\my code\part ii\c projects\student records\input.h
+
+1525193878 source:d:\software & hardware\my code\part ii\c projects\student records\linkedlist.c
+	"linkedlist.h"
+	"student.h"
+	<stdio.h>
+	<windows.h>
+
+1503684438 d:\software & hardware\my code\part ii\c projects\student records\linkedlist.h
+	"student.h"
+	<stdio.h>
+	<windows.h>
+
+1503679398 d:\software & hardware\my code\part ii\c projects\student records\student.h
+	<stdio.h>
+
+1503678929 source:d:\software & hardware\my code\part ii\c projects\student records\main.c
+	<stdio.h>
+	<conio.h>
+	"mainFunctions.h"
+	"student.h"
+	"input.h"
+	"linkedlist.h"
+
+1503679083 d:\software & hardware\my code\part ii\c projects\student records\mainfunctions.h
+	"student.h"
+	"linkedlist.h"
+	"input.h"
+
+1525193878 source:d:\software & hardware\my code\part ii\c projects\student records\mainfunctions.c
+	<conio.h>
+	"mainFunctions.h"
+	"student.h"
+	"linkedlist.h"
+	"input.h"
+
+1525193878 source:d:\software & hardware\my code\part ii\c projects\student records\student.c
+	"student.h"
+	"input.h"
+	<stdio.h>
+	<string.h>
+
